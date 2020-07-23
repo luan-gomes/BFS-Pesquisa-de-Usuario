@@ -1,0 +1,12 @@
+.div-results {
+  display: flex;
+  margin-top: 20px;
+}
+
+#container-users,
+#container-statistics {
+  width: 300px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  margin-right: 20px;
+}
